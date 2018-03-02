@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/hourglass-add-icon.png</file>
+        <file>icons/hourglass-delete-icon.png</file>
+        <file>icons/hourglass-go-icon.png</file>
+        <file>icons/hourglass-icon.png</file>
+        <file>icons/hourglass-link-icon.png</file>
+        <file>icons/mouse-cursor.png</file>
+        <file>icons/mouse-select-left-icon.png</file>
+        <file>icons/mouse-select-right-icon.png</file>
+        <file>icons/mouse-select-scroll-icon.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/title.png</file>
+        <file>icons/separator.png</file>
+        <file>icons/crosshair-select.png</file>
+        <file>icons/crosshair-select2.png</file>
+        <file>icons/save.png</file>
+        <file>icons/load.png</file>
+    </qresource>
+</RCC>
