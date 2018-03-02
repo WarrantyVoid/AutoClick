@@ -1,4 +1,5 @@
 # User settings
+*.user
 *.user.*
 
 # Prerequisites
