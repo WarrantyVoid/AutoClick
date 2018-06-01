@@ -5,6 +5,8 @@
 #include <X11/extensions/XTest.h>
 #include <string.h>
 #include <ctime>
+#include <cmath>
+#include <vector>
 
 class MouseRobot::MouseRobotImpl
 {

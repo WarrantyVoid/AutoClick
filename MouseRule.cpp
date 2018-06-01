@@ -118,6 +118,7 @@ int MouseRule::number() const
 void MouseRule::setPredecessor(MouseRule *predRule)
 {
     mPredecessor = predRule;
+    mUi->countLabel->setText(QString("%1").arg(number(),3, 10, QChar('0')));
 }
 
 
